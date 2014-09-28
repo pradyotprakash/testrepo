@@ -2,7 +2,7 @@
 #include <ctime>
 #include <cstdlib>
 #include <stdio.h>
-hey
+hey1
 int main(){
 	srand(time(NULL));
 	Tree *t = new Tree();
